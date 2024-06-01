@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am deeply passionate about tackling complex and impactful problems that profoundly affect people's lives.
 
 <!--
 **amralsaleeh/amralsaleeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
