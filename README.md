@@ -1,7 +1,8 @@
-# Hi 👋
-I am a Full Stack Web Developer specializing in Laravel, Livewire, and VueJS, with over 3 years of experience ⚡
 
-# Software Engineer
+#### Hi, I am a Full Stack Web Developer specializing in Laravel, Livewire, and VueJS, with over 3 years of experience ⚡
+
+# 
+
 - Namaa Association, UNHCR Partner - Aleppo, Syria
 - July 2022  - present
 
