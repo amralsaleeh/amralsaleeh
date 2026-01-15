@@ -1,7 +1,7 @@
 
 
 #### Hi there 👋
-#### I am a **Full Stack Web Developer** specializing in Laravel, Livewire, and VueJS, with over **3 years** of experience ⚡
+#### I am a **Full Stack Web Developer** specializing in Laravel, Livewire, and VueJS, with over **4 years** of experience ⚡
 
 ### **Current Role**
 
