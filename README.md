@@ -1,18 +1,21 @@
+### **Hi there 👋**
 
+I'm Amr Alsaleh, a Full Stack Web Developer specializing in **Laravel, Livewire, and Vue.js. With over 4 years** of experience transforming ideas into functional web applications and content management systems, I have a strong command of PHP, JavaScript, WordPress, and Adobe products. ⚡
 
-#### Hi there 👋
-#### I am a **Full Stack Web Developer** specializing in Laravel, Livewire, and VueJS, with over **4 years** of experience ⚡
+### **Previous Role:**
 
-### **Current Role**
+- Namaa Association, UNHCR Partner
+- July 2022  - April 2026
 
-- Namaa Association, UNHCR Partner - Aleppo, Syria
-- July 2022  - **present**
+### **Key Responsibilities & Achievements:**
 
-● Developing, launching, and managing a web-based **HR Management System** that revolutionized employee lifecycle management, encompassing Attendance Tracking, Payroll Management, Assets Management, and Advanced Analytics, resulting in a **75% reduction in administrative workload**, eliminated paperwork, and improved decision-making through data-driven insights.
+- Developed, launched, and managed a **web-based HR Management System** to streamline employee lifecycle management, encompassing Attendance Tracking, Payroll Management, Asset Management, and Advanced Analytics, **which reduced administrative workload by 75%**, eliminated paperwork, and enhanced data-driven decision-making.
 
-● Deploy the **Data management system** to the hosting platform, ensuring seamless integration and optimization, which resulted in a **20% reduction in data retrieval time** and the elimination of manual data entry errors.
+- Deployed the Data Management System, ensuring seamless integration and optimization, **which resulted in a 20% reduction in data retrieval time** and eliminated manual data entry errors.
 
-● **Evaluated IT systems monthly**, ensuring they met performance demands; upgraded components and software, **resolving 95% of support issues within 24 hours** and improving network uptime by **15%**.
+- **Evaluated IT systems on a monthly basis** to ensure they met performance demands; upgraded components and software, **resolved 95% of support issues within 24 hours**, and improved network uptime by 15%.
+
+- **Led a team of 12 members across 6 different centers**, driving efficient management and data entry processes that significantly enhanced the generation of monthly reports.
 
 <!--
 **amralsaleeh/amralsaleeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
