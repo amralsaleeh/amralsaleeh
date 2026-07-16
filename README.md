@@ -1,21 +1,21 @@
 ### **Hi there 👋**
 
-I'm Amr Alsaleh, a Full Stack Web Developer specializing in **Laravel, Livewire, and Vue.js. With over 4 years** of experience transforming ideas into functional web applications and content management systems, I have a strong command of PHP, JavaScript, WordPress, and Adobe products. ⚡
+I'm Amr Alsaleh, a Systems Engineer with solid expertise in IT administration and software development. Specialized in automating administrative workflows and optimizing complex systems and network infrastructures.
 
 ### **Previous Role:**
 
-- Namaa Association, UNHCR Partner
+- **IT Department Lead & Systems Engineer,** Namaa Association, UNHCR Partner
 - July 2022  - April 2026
 
 ### **Key Responsibilities & Achievements:**
 
-- Developed, launched, and managed a **web-based HR Management System** to streamline employee lifecycle management, encompassing Attendance Tracking, Payroll Management, Asset Management, and Advanced Analytics, **which reduced administrative workload by 75%**, eliminated paperwork, and enhanced data-driven decision-making.
-
-- Deployed the Data Management System, ensuring seamless integration and optimization, **which resulted in a 20% reduction in data retrieval time** and eliminated manual data entry errors.
-
-- **Evaluated IT systems on a monthly basis** to ensure they met performance demands; upgraded components and software, **resolved 95% of support issues within 24 hours**, and improved network uptime by 15%.
-
-- **Led a team of 12 members across 6 different centers**, driving efficient management and data entry processes that significantly enhanced the generation of monthly reports.
+- **Team Leadership:** Led a team of 12 employees across 6 locations to optimize management and data entry processes and improve monthly reporting efficiency.
+- **HR System:** Developed and managed a web-based HR system covering the entire employee lifecycle (time tracking, payroll, asset management, and analytics). Reduced administrative workload by 75%, eliminated paper-based processes, and enabled data-driven decision-making.
+- **Web Development:** Developed and maintained web applications using Laravel, Livewire, and MySQL by implementing new features, optimizing databases, and automating processes to improve system efficiency.
+- **Network Security:** Implemented and configured a MikroTik firewall to enforce security policies and optimize bandwidth allocation, significantly improving network security, stability, and centralized management.
+- **Data Management:** Deployed and managed a data management system on a hosting platform with seamless integration. Reduced data retrieval time by 20% and eliminated manual data entry errors through optimized processes.
+- **IT Infrastructure:** Managed servers, networks, and IT infrastructure while providing technical support through troubleshooting, system monitoring, and timely issue resolution.
+- **System Maintenance:** Conducted monthly evaluations of IT systems, performed upgrades and optimizations, resolved 95% of support requests within 24 hours, and improved network availability by 15%.
 
 <!--
 **amralsaleeh/amralsaleeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
