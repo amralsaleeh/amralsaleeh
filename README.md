@@ -1,7 +1,8 @@
 ### **Hi there 👋**
 
-I'm Amr Alsaleh, a Systems Engineer with solid expertise in IT administration and software development. Specialized in automating administrative workflows and optimizing complex systems and network infrastructures.
+I'm Amr Alsaleh, an IT Specialist | Passionate About Solving Problems, Building Solutions & Turning Ideas into Reality.
 
+<!--
 ### **Previous Role:**
 
 - **IT Department Lead & Systems Engineer,** Namaa Association, UNHCR Partner
@@ -17,7 +18,7 @@ I'm Amr Alsaleh, a Systems Engineer with solid expertise in IT administration an
 - **IT Infrastructure:** Managed servers, networks, and IT infrastructure while providing technical support through troubleshooting, system monitoring, and timely issue resolution.
 - **System Maintenance:** Conducted monthly evaluations of IT systems, performed upgrades and optimizations, resolved 95% of support requests within 24 hours, and improved network availability by 15%.
 
-<!--
+
 **amralsaleeh/amralsaleeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
