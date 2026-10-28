@@ -1,7 +1,6 @@
 ### **Hi there 👋**
 
-I'm Amr Alsaleh, an IT Specialist | Passionate About Solving Problems, Building Solutions & Turning Ideas into Reality.
-
+I'm Amr Alsaleh — making complex technology invisible, so business can just happen!
 <!--
 ### **Previous Role:**
 
